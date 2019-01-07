@@ -1,4 +1,5 @@
 # Tic-Tac-Toe SFML C++
+Implemented the game as a part of my udemy course on Tic Tac Toe using C++ SFML and AI
 
 <h3>Project Creation</h3>
 1: Project Setup On Windows<br />
